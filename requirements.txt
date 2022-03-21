@@ -1,0 +1,6 @@
+numpy==1.22.3
+nltk==3.7
+tqdm
+html5lib
+beautifulsoup4==4.10.0
+requests
